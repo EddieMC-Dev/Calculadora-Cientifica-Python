@@ -16,23 +16,17 @@ Calculadora anterior: <a href="https://github.com/EddieMC-Dev/Calculadora-Python
 <div>
   <img src="" >
 </div>
+### Calcular log10 ou log
 <div>
-  <img src="https://github.com/EddieMC-Dev/Calculadora-Python/blob/main/calculando_git.PNG">
+  <img src="">
 </div>
+### Calcular raiz quadrada, potência e o número de Euler (2,71....)
 <div>
-  <img src="https://github.com/EddieMC-Dev/Calculadora-Python/blob/main/resultado_git.PNG">
+  <img src="">
 </div>
-Ao digitarmos a conta e clicar no botão de igual, o cálculo resultou em -225 que é a resposta correta.
 
-## Detalhes de construção dos botões
-Como cada botão contém propriedades específicas e daria muito trabalho definí-las criando um botão por vez, então
-criei listas que armazenam as propriedades referentes a cada botão e suas respectivas posições. Todo esse processo
-foi realizado para gerar todos os botões em um único loop, aproveitando cada posição nas listas de propriedades.
-<div>
-   <img src="https://github.com/EddieMC-Dev/Calculadora-Python/blob/main/botoes.PNG"> 
-</div>
 
 ## Ferramentas usadas
 - Tkinter: https://docs.python.org/3/library/tk.html
-- Vídeo de apoio: https://youtu.be/i24MxljM-Bw
+- Artigo: https://github.com/EddieMC-Dev/Calculadora-Python
 
