@@ -14,19 +14,22 @@ Calculadora anterior: <a href="https://github.com/EddieMC-Dev/Calculadora-Python
 ## Novas funcionalidades
 ### Calcular seno, cosseno e tangente de pi (3,14......)
 <div>
-  <img src="" >
+  <img src="https://github.com/EddieMC-Dev/Calculadora-Cientifica-Python/blob/main/images/tan_sin_cos.PNG" >
 </div>
+
 ### Calcular log10 ou log
 <div>
-  <img src="">
+  <img src="https://github.com/EddieMC-Dev/Calculadora-Cientifica-Python/blob/main/images/log_log10.PNG">
 </div>
+
 ### Calcular raiz quadrada, potência e o número de Euler (2,71....)
 <div>
-  <img src="">
+  <img src="https://github.com/EddieMC-Dev/Calculadora-Cientifica-Python/blob/main/images/raiz_potencia_e.PNG">
 </div>
 
 
 ## Ferramentas usadas
 - Tkinter: https://docs.python.org/3/library/tk.html
-- Artigo: https://github.com/EddieMC-Dev/Calculadora-Python
+- Math: https://docs.python.org/3/library/math.html
+- Repositório: https://github.com/EddieMC-Dev/Calculadora-Python
 
